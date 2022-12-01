@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 import pandas as pd
-from Meanshift_image import meanshift
+from Image_segmentation import meanshift
 
 class sky_segmentation:
     def __init(self):

@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 from sklearn.cluster import MeanShift, estimate_bandwidth
-from Meanshift_image import meanshift
+from Image_segmentation import meanshift
 import matplotlib.pyplot as plt
 def main():
     path = input('Input image path:\n')

@@ -1,4 +1,4 @@
-from Meanshift_image import meanshift
+from Image_segmentation import meanshift
 import matplotlib.pyplot as plt
 import numpy as np
 from sky_segmentation_feature import sky_segmentation
